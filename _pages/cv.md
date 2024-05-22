@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download my cv]('http://deviyantiam.github.io/files/cv_deviyanti_aryani_2024.pdf')
+[Download my cv](http://deviyantiam.github.io/files/cv_deviyanti_aryani_2024.pdf)
 
 Work experience
 ======
